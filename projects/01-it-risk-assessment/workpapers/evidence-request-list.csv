@@ -1,0 +1,13 @@
+Evidence ID,Area,Evidence Requested,Related Risk,Priority,Owner,Status,Assessment Note
+E-001,IAM,"Export of privileged users, assigned roles and approval records",R-001,Critical,IAM Owner,Requested,"Evidence must be dated, complete and reconciled to the account inventory."
+E-002,Authentication,"MFA policy and technical configuration demonstrating privileged-account coverage",R-002,Critical,Security Lead,Requested,"A policy alone does not prove technical enforcement."
+E-003,Network,"Current network architecture and sampled firewall/security-group rules",R-003,Critical,Cloud Engineer,Requested,"Check for unnecessary paths between trust zones and document exceptions."
+E-004,Vulnerability,"Recent vulnerability scan, remediation tracker and approved SLA",R-004,High,IT Operations,Requested,"Check scan coverage, aging, exceptions and overdue critical findings."
+E-005,Logging,"Log source inventory, retention settings and sample alert/review records",R-005,High,Security Operations,Requested,"Check coverage of critical systems, integrity, access and retention."
+E-006,Recovery,"Backup configuration and most recent restoration-test evidence",R-006,High,IT Operations,Requested,"Record actual restoration results against approved recovery objectives."
+E-007,Third Party,"Critical vendor inventory, risk assessments, assurance evidence and relevant contract clauses",R-007,High,Procurement and GRC,Requested,"Confirm review date, scope, exceptions and owner."
+E-008,SDLC,"CI/CD security checks, code-review evidence and exception approvals",R-008,High,Engineering,Requested,"Check whether checks run consistently and failed gates can be bypassed."
+E-009,Secrets,"Secret-scanning results, managed-secret configuration and rotation records",R-009,Critical,DevSecOps,Requested,"Do not include live credentials or secret values in portfolio evidence."
+E-010,Incident Response,"Incident-response plan, exercise results and tracked lessons learned",R-010,High,Security Lead,Requested,"Confirm scenarios, participants, decisions and action closure."
+E-011,Data Governance,"Approved classification standard and sample data-handling decisions",R-011,Medium,Data Owner and GRC,Requested,"Use synthetic samples only in public portfolio materials."
+E-012,Configuration,"Approved cloud baseline, configuration-drift report and change records",R-012,High,Cloud Engineer,Requested,"Confirm drift findings are triaged and exceptions approved."
