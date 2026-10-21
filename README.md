@@ -11,8 +11,8 @@
 | # | Project | Core deliverables | Status |
 |---|---|---|---|
 | 01 | [IT Risk Assessment & Cybersecurity Control Assessment](projects/01-it-risk-assessment/README.md) | Risk register, methodology, risk-control matrix, evidence requests, remediation tracker, executive summary | Foundation |
-| 02 | [AWS Cloud Security Risk & Control Assessment](projects/02-aws-cloud-security-risk-assessment/README.md) | AWS risk register, IAM and VPC control tests, logging/configuration evidence requests, remediation plan, executive summary | Initial package published |
-| 03 | PCI DSS-Aligned Control Gap Assessment | Requirement mapping, evidence matrix, gap log, remediation plan | Planned |
+| 02 | [AWS Cloud Security Risk & Control Assessment](projects/02-aws-cloud-security-risk-assessment/README.md) | AWS risk register, IAM and VPC control tests, logging/configuration evidence requests, remediation plan | Initial package published |
+| 03 | [PCI DSS-Aligned Compliance Assessment](projects/03-pci-dss-compliance-assessment/README.md) | Selected control mapping, evidence requests, illustrative gap register, remediation tracker and test plan | Initial package published |
 | 04 | Third-Party / Vendor Risk Assessment | Vendor questionnaire, inherent/residual risk, due diligence and monitoring | Planned |
 | 05 | AI Governance & AI Risk Assessment | AI system inventory, risk register, governance controls and lifecycle oversight | Planned |
 | 06 | GRC Metrics & Executive Dashboard | Risk trends, overdue actions, control status and management KPIs | Planned |
