@@ -1,0 +1,13 @@
+Evidence ID,Domain,Evidence Requested,Related Risks,Priority,Owner,Status,Validation Notes
+AWS-E01,IAM,"Export of IAM users, roles, attached/inline policies and privileged access assignments",AWS-R01,Critical,IAM Owner,Requested,"Redact account identifiers where needed; assess effective permissions in context."
+AWS-E02,IAM,"MFA enforcement and privileged role-assumption configuration for human administrators",AWS-R02,Critical,Identity Owner,Requested,"Policy text alone is insufficient; confirm technical enforcement and scope."
+AWS-E03,Network,"Inventory of public endpoints, VPCs, subnets, route tables and security-group ingress/egress",AWS-R03;AWS-R04,Critical,Network Owner,Requested,"Compare effective connectivity with approved business data flows."
+AWS-E04,Logging,"CloudTrail trail/event data-store status, account/region scope, event selectors and destination settings",AWS-R05,High,Logging Owner,Requested,"Confirm scope is appropriate for the organization's environment and obligations."
+AWS-E05,Logging,"Log destination access policy, retention settings, encryption and log validation configuration where used",AWS-R06,High,Logging Owner,Requested,"Identify principals able to alter or delete records."
+AWS-E06,Monitoring,"Selected security alarms, notification destinations, test results and response tickets",AWS-R07,High,Security Operations,Requested,"Verify alert delivery, accountable owner and documented response."
+AWS-E07,Configuration,"AWS Config recorder status, supported resource coverage, rules and compliance history",AWS-R08,High,Cloud Governance,Requested,"Document unsupported resources, excluded regions and approved exceptions."
+AWS-E08,Change Management,"Sample infrastructure-as-code changes, peer approvals, deployment logs and change tickets",AWS-R09,High,Platform Engineering,Requested,"Trace change from request to implementation and validation."
+AWS-E09,Secrets,"Secret-scanning report, credential inventory metadata and rotation evidence without secret values",AWS-R11,Critical,DevSecOps,Requested,"Never commit live secrets or tokens to the public repository."
+AWS-E10,Resilience,"Critical asset backup coverage, protection settings and latest restore-test evidence",AWS-R10,High,Service Owner,Requested,"Compare actual restore results to approved RTO/RPO."
+AWS-E11,Governance,"Security findings register, risk exceptions, accountable owners, due dates and closure evidence",AWS-R12,High,GRC/Cloud Owner,Requested,"Check escalation of overdue critical/high items and documented risk acceptance."
+AWS-E12,Context,"Approved architecture, asset inventory, data classification and shared-responsibility allocation",All,High,Service Owner,Requested,"Confirm scope, business criticality and control ownership before testing."
