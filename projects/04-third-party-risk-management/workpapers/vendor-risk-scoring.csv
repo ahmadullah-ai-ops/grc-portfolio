@@ -1,0 +1,11 @@
+Vendor ID,Vendor Name,Factor,Rating 1-5,Weight,Weighted Score,Rating Rationale,Evidence Reference
+V-001,CloudCart Services (fictional),Data sensitivity,4,1,4.0,"Illustrative assumption only; data categories not confirmed.",Not Collected
+V-001,CloudCart Services (fictional),Access and privilege,4,1,4.0,"Illustrative assumption only; integrations and privileges not confirmed.",Not Collected
+V-001,CloudCart Services (fictional),Business criticality,4,1,4.0,"Illustrative assumption only; service dependency assumed high.",Not Collected
+V-001,CloudCart Services (fictional),Integration and exposure,3,1,3.0,"Illustrative assumption only; API/SSO scenario assumed.",Not Collected
+V-001,CloudCart Services (fictional),Regulatory / contractual impact,4,1,4.0,"Illustrative assumption only; obligations must be confirmed.",Not Collected
+V-001,CloudCart Services (fictional),Resilience dependency,4,1,4.0,"Illustrative assumption only; continuity impact assumed material.",Not Collected
+V-001,CloudCart Services (fictional),Fourth-party concentration,3,1,3.0,"Illustrative assumption only; subcontractor details unknown.",Not Collected
+V-001,CloudCart Services (fictional),INHERENT RISK AVERAGE,,"",3.71,"Example mean = 26 / 7 = 3.71; Critical under the sample bands in methodology. Not a verified vendor rating.","Illustrative only"
+V-001,CloudCart Services (fictional),Control effectiveness,,"",,"Not assessed; evidence not provided.","Not Collected"
+V-001,CloudCart Services (fictional),RESIDUAL RISK,,"",,"Not scored: control evidence and treatment validation are missing. Do not infer a residual rating.","Not Assessed"
