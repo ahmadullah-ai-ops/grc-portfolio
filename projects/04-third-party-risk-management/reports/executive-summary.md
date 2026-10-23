@@ -1,4 +1,4 @@
-# Executive Summary — Third-Party Risk Management
+# Executive Summary: Third-Party Risk Management
 
 **Scenario:** Fictional e-commerce organization and fictional SaaS provider  
 **Status:** Simulated due diligence package; no real vendor assessed
@@ -29,7 +29,7 @@ Recommended KPIs include: percentage of critical vendors with current reviewed a
 
 ## Limitations
 
-All vendor details, answers, scores and findings are fictional. No real vendor due diligence or control testing occurred. Do not represent this exercise as a completed assessment of an actual supplier.
+All vendor details, answers, scores and findings are fictional. No real vendor due diligence or control testing occurred in reality. This exerciseis not as a completed assessment of any actual supplier.
 
 
 ## Evidence-led sample decision record
