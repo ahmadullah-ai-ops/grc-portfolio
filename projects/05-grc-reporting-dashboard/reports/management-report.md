@@ -1,6 +1,6 @@
-# Management Report — GRC Reporting Dashboard
+# Management Report: GRC Reporting Dashboard
 
-**Reporting date:** 23 October 2026  
+**Reporting date:** 03 December 2025  
 **Organization:** Fictional Northstar Retail  
 **Data classification:** Synthetic portfolio demonstration
 
