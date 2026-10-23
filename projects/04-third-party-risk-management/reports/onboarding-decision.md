@@ -1,8 +1,8 @@
-# Vendor Onboarding Decision Record — Simulated
+# Vendor Onboarding Decision Record
 
 **Vendor:** CloudCart Services (fictional)  
 **Business:** Northstar Retail (fictional)  
-**Decision date:** 23 October 2026  
+**Decision date:** 02 December 2025  
 **Decision:** **Defer onboarding pending due diligence**  
 **Decision owner:** Business Risk Owner (role placeholder; no real approval implied)
 
@@ -26,4 +26,4 @@ No production credentials, sensitive data transfer or production integration sho
 
 ## Limitations
 
-This is a fictional demonstration. No real vendor evidence was collected, no real control testing occurred and no actual procurement decision has been made.
+This is a fictional demonstration like fictional story or film for educational purpose only. No real vendor evidence was collected, no real control testing occurred and no actual procurement decision has been made.
