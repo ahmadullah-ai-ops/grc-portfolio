@@ -29,10 +29,10 @@ Score likelihood and impact from 1 to 5. Inherent risk = likelihood × impact.
 
 | Score | Rating |
 |---|---|
-| 1–4 | Low |
-| 5–9 | Moderate |
-| 10–15 | High |
-| 16–25 | Critical |
+| 1-4 | Low |
+| 5-9 | Moderate |
+| 10-15 | High |
+| 16-25 | Critical |
 
 Likelihood and impact definitions should be approved by the organization. The thresholds here are illustrative. A numeric score is a prioritization aid, not a precise prediction of loss.
 
