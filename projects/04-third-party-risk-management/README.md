@@ -42,6 +42,10 @@ The exact data types, integrations and PCI DSS responsibilities must be confirme
 - [Risk scoring worksheet](workpapers/vendor-risk-scoring.csv)
 - [Evidence request checklist](workpapers/vendor-evidence-checklist.csv)
 - [Findings register](workpapers/vendor-findings-register.csv)
+- [Sample questionnaire responses (unverified)](workpapers/sample-questionnaire-responses.csv)
+- [Evidence review log](workpapers/evidence-review-log.csv)
+- [Control effectiveness assessment](workpapers/control-effectiveness-assessment.csv)
+- [Onboarding decision record](reports/onboarding-decision.md)
 - [Remediation tracker](workpapers/vendor-remediation-tracker.csv)
 - [Ongoing monitoring plan](workpapers/vendor-monitoring-plan.csv)
 - [Executive summary](reports/executive-summary.md)
@@ -67,6 +71,10 @@ Each inherent risk factor is rated from 1 (low) to 5 (very high). The illustrati
 - Align assessment depth and reassessment frequency to risk, contractual obligations and applicable regulation.
 - Record exceptions with a named risk owner, rationale, expiry date and approval.
 
-## 8. Status and limitations
+## 8. Evidence-led sample decision
+
+The added sample questionnaire response file records illustrative vendor statements and explicitly labels them unverified. The evidence review log shows which evidence was requested and not received. Consequently, the control-effectiveness workpaper leaves design and operating effectiveness as Not Assessed, and the onboarding decision is Defer pending due diligence. Residual risk remains unscored until evidence is reviewed. These are simulated decision mechanics, not a real vendor assessment.
+
+## 9. Status and limitations
 
 This repository contains a reusable TPRM workflow and fictional sample data. The example vendor's answers, control conditions and scores are illustrative only. No due diligence has been performed on a real provider and no actual onboarding decision is implied.
