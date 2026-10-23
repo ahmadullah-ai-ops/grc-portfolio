@@ -1,0 +1,17 @@
+Evidence ID,Requested Evidence,Received?,Scope Reviewed?,Currency Reviewed?,Reviewer Outcome,Limitation,Next Action
+EV-001,Independent assurance report and bridge letter,No,No,No,Not assessable,"No report supplied in simulated case; response claim is not proof.",Request current report; validate covered service, period, exceptions and subservice organizations.
+EV-002,Data-flow diagram and encryption/key-management evidence,No,No,No,Not assessable,"Data categories, locations and technical implementation unknown.",Obtain approved data flow and encryption/key-management evidence.
+EV-003,MFA and privileged-access configuration/test evidence,No,No,No,Not assessable,"No configuration export or test record.",Request scoped configuration evidence and sample access test.
+EV-004,Latest access review and exception closure evidence,No,No,No,Not assessable,"No dated review artifact.",Request latest review, reviewer, population and closed exceptions.
+EV-005,Logging coverage, retention and alert test evidence,No,No,No,Not assessable,"No log source inventory or test results.",Request architecture, retention settings, alert test and response sample.
+EV-006,Vulnerability policy, scan summary and remediation SLA metrics,No,No,No,Not assessable,"No scan or metrics supplied.",Request recent scoped metrics, aging and exception treatment.
+EV-007,Contract incident-notification clause and exercise summary,No,No,No,Not assessable,"No executed contract or exercise artifact.",Legal review of notification terms; request exercise summary.
+EV-008,Approved RTO/RPO and restoration test results,No,No,No,Not assessable,"Recovery capability not demonstrated.",Request approved objectives, recent test results and open issues.
+EV-009,Subprocessor list and change-notification terms,No,No,No,Not assessable,"Downstream dependencies unknown.",Request current list and contract terms; assess material subprocessors.
+EV-010,Retention/deletion procedure and exit evidence,No,No,No,Not assessable,"Deletion from backups and derived systems not addressed.",Request policy, retention schedule and termination/deletion process.
+EV-011,Secure SDLC and sample change/security test evidence,No,No,No,Not assessable,"No development control evidence supplied.",Request change workflow and recent scoped test evidence.
+EV-012,Hosting physical-security assurance,No,No,No,Not assessable,"Hosting provider and report scope unknown.",Confirm hosting chain and applicable assurance coverage.
+EV-013,Data processing terms and processing-location inventory,No,No,No,Not assessable,"Processing roles and jurisdictions unconfirmed.",Privacy/Legal to validate contract and data locations.
+EV-014,Contract audit/assurance rights,No,No,No,Not assessable,"No executed contract included.",Legal review before signature.
+EV-015,Exit plan, data return and access revocation evidence,No,No,No,Not assessable,"Exit procedure not demonstrated.",Require exit plan and responsible owner.
+EV-016,AI feature/data-use terms,No,No,No,Not assessable,"AI feature use and data training terms unconfirmed.",Clarify data use, tenant isolation and customer authorization.
