@@ -1,4 +1,4 @@
-# Executive Summary — PCI DSS-Aligned Readiness Assessment
+# Executive Summary: PCI DSS-Aligned Readiness Assessment
 
 **Reference:** PCI DSS v4.0.1  
 **Scenario:** Fictional online retailer accepting payment cards  
@@ -8,7 +8,7 @@
 
 This portfolio project demonstrates a structured approach to PCI DSS readiness: scope discovery, selected requirement mapping, evidence collection planning, gap logging, remediation ownership and retesting. It is not a formal PCI DSS assessment and does not establish compliance.
 
-**No real organization, CDE or payment integration was assessed.** All gap entries are illustrative hypotheses that must be validated. No evidence has been collected, and all tests remain Not Tested.
+**No real organization, CDE or payment integration was assessed.** All gap entries are illustrative hypotheses that must be validated. No evidence has been collected, and all tests will remain Not Tested.
 
 ## Priority workstreams
 
@@ -34,4 +34,4 @@ Requirement applicability, testing methods and validation obligations depend on 
 
 ## Portfolio disclosure
 
-This is a simulated skills demonstration only. It is not a ROC, SAQ, AOC, QSA opinion, certification or claim of client experience.
+This is a simulated skills demonstration only and for educational purpose only.
