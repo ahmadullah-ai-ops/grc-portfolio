@@ -1,0 +1,9 @@
+action_id,risk_id,title,priority,owner,opened_date,due_date,closed_date,status,sla_days
+A-001,R-001,Complete privileged access recertification,Critical,IAM Lead,2026-09-01,2026-09-20,,In Progress,30
+A-002,R-002,Enable and validate central log ingestion,High,Security Operations,2026-09-05,2026-10-01,,Open,30
+A-003,R-003,Run backup restoration test,High,Infrastructure,2026-09-02,2026-10-10,,Blocked,30
+A-004,R-004,Review current vendor assurance report,High,Vendor Risk,2026-09-10,2026-10-15,,Open,30
+A-005,R-005,Close endpoint patch exceptions,Moderate,IT Operations,2026-09-12,2026-10-20,,In Progress,30
+A-006,R-006,Approve data retention schedule,Moderate,Privacy,2026-09-01,2026-09-25,2026-09-23,Verified,30
+A-007,R-002,Document log alert coverage,High,Security Operations,2026-08-15,2026-09-15,2026-09-18,Closed,30
+A-008,R-004,Confirm vendor incident-notice clause,High,Legal,2026-08-20,2026-09-25,2026-09-20,Closed,30
