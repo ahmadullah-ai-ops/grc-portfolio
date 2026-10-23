@@ -10,7 +10,7 @@ The latest synthetic snapshot contains six risks: one Critical, three High, and 
 
 Five remediation actions are overdue at the sample reporting date. The overdue list includes one Critical and three High-priority actions plus one Moderate-priority action. Owners should confirm revised dates, blockers and escalation status; overdue counts alone do not establish that remediation is ineffective.
 
-The control inventory contains two Effective, three Partially Effective, one Ineffective and two Not Tested controls. Not Tested is not equivalent to effective. The two sample closed actions with valid dates were completed within the configured 30-day SLA (2/2, or 100%); this small sample is not a statistically meaningful performance baseline.
+The control inventory contains two Effective, three Partially Effective, one Ineffective and two Not Tested controls. Not Tested is not equivalent to effective. Of the three sample closed/verified actions with valid dates, one was completed within the configured 30-day SLA (1/3, or 33%). This small synthetic sample is not a statistically meaningful performance baseline.
 
 ## Management actions
 
