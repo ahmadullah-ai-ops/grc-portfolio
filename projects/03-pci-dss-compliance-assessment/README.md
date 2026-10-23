@@ -1,4 +1,4 @@
-# Project 03 — PCI DSS-Aligned Compliance Assessment
+# Project 03: PCI DSS-Aligned Compliance Assessment
 
 **Project type:** Simulated payment-card security compliance case study  
 **Target roles:** GRC Analyst · IT Risk Analyst · Cybersecurity Compliance Specialist  
