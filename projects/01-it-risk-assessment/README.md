@@ -1,4 +1,4 @@
-# Project 01 — IT Risk Assessment & Cybersecurity Control Assessment
+# Project 01: IT Risk Assessment & Cybersecurity Control Assessment
 
 **Project type:** Simulated GRC case study  
 **Role demonstrated:** Junior GRC Analyst / IT Risk Analyst  
@@ -9,7 +9,7 @@
 
 A fictional cloud-based e-commerce business processes customer information and integrates with payment services. Leadership wants a structured view of technology risk, the status of key cybersecurity controls, the evidence needed to assess those controls, and the remediation actions that should receive priority.
 
-This is a simulated scenario created for portfolio demonstration; it is not a real client assessment.
+(This is just a simulated scenario created for my learning portfolio demonstration; it is not a real client assessment).
 
 ## 2. Objective
 
@@ -44,7 +44,7 @@ Demonstrate an evidence-driven workflow for identifying, scoring, mapping, asses
 
 ## 5. High-priority risk themes
 
-The illustrative risk model highlights privileged access, privileged-account MFA, network segmentation and secrets management for urgent review. These are preliminary priorities based on assumed likelihood and impact scores, not verified findings about a real organization.
+The illustrative risk model highlights privileged access, privileged-account MFA, network segmentation and secrets management for urgent review. These are preliminary priorities based on imagined or assumed likelihood and impact scores, not verified findings about any real organization.
 
 ## 6. Method
 
