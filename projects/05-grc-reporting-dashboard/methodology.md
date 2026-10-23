@@ -1,4 +1,4 @@
-# Methodology — GRC Reporting Dashboard
+# Methodology: GRC Reporting Dashboard
 
 ## Reporting date and data lineage
 
