@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-Provide a repeatable and transparent method for assessing technology and cybersecurity risks in the simulated case study. This document is educational and does not constitute an audit opinion, certification, or legal/compliance advice.
+Our purpose is to provide a repeatable and transparent method for assessing technology and cybersecurity risks in the simulated case study. This document is educational only and does not constitute an audit opinion, certification, or legal/compliance advice for anyone but the students.
 
 ## 2. Risk statement format
 
@@ -38,10 +38,10 @@ Score likelihood and impact from 1 to 5.
 
 | Score | Rating |
 |---|---|
-| 1–4 | Low |
-| 5–9 | Moderate |
-| 10–15 | High |
-| 16–25 | Critical |
+| 1-4 | Low |
+| 5-9 | Moderate |
+| 10-15 | High |
+| 16-25 | Critical |
 
 These thresholds are illustrative. A real organization should approve its risk matrix and impact criteria.
 
