@@ -1,4 +1,4 @@
-# Executive Summary — IT Risk Assessment
+# Executive Summary - IT Risk Assessment
 
 **Assessment type:** Simulated portfolio case study  
 **Environment:** Fictional cloud-based e-commerce business  
@@ -33,4 +33,4 @@ A risk score is a prioritization aid, not a precise prediction of loss. A contro
 
 ## Portfolio disclosure
 
-This is a simulated case study for professional skills demonstration. No client engagement, production environment, or real control evidence is claimed.
+This is a simulated case study for professional skills demonstration. No client engagement, production environment, or real control evidence is claimed (otherwise disclosure is against Confidentiality Integrity Availability).
