@@ -1,4 +1,4 @@
-# Governance, Risk & Compliance Portfolio
+# Governance, Risk Management & Compliance Portfolio
 
 **GRC Analyst · IT Risk Analyst · Cybersecurity Compliance Specialist**  
 **Islamabad, Pakistan**   
@@ -18,7 +18,7 @@
  
 ## Separate specialization repository
 
-**AI Governance & AI Risk Assessment will be maintained in a separate repository** so the GRC portfolio remains focused and we evaluate AI governance as a distinct specialization. Planned AI Governance deliverables include an AI system inventory, AI risk register, governance/control mapping, impact assessment, lifecycle oversight and monitoring etc etc. I'll add the repository link here once the dedicated repository is created and accessible.
+**AI Governance & AI Risk Assessment will be maintained in a separate repository** so the GRC portfolio remains focused and we can evaluate AI governance as a distinct specialization. Planned AI Governance deliverables include an AI system inventory, AI risk register, governance/control mapping, impact assessment, lifecycle oversight and monitoring etc etc. I'll add the repository link here once the dedicated repository is created and accessible.
 
 ## How I approach GRC
 
