@@ -1,0 +1,19 @@
+snapshot_date,risk_id,title,severity,status,owner,domain
+2026-08-31,R-001,Privileged access review gaps,Critical,Open,IAM Lead,Identity
+2026-08-31,R-002,Incomplete centralized logging,High,Open,Security Operations,Monitoring
+2026-08-31,R-003,Unverified backup restoration,High,In Progress,Infrastructure,Resilience
+2026-08-31,R-004,Vendor assurance evidence expired,High,Open,Vendor Risk,Third Party
+2026-08-31,R-005,Endpoint patch exceptions,Moderate,Open,IT Operations,Endpoint
+2026-08-31,R-006,Data retention rules incomplete,Moderate,In Progress,Privacy,Data Protection
+2026-09-30,R-001,Privileged access review gaps,Critical,Open,IAM Lead,Identity
+2026-09-30,R-002,Incomplete centralized logging,High,In Progress,Security Operations,Monitoring
+2026-09-30,R-003,Unverified backup restoration,High,Open,Infrastructure,Resilience
+2026-09-30,R-004,Vendor assurance evidence expired,High,Open,Vendor Risk,Third Party
+2026-09-30,R-005,Endpoint patch exceptions,Moderate,In Progress,IT Operations,Endpoint
+2026-09-30,R-006,Data retention rules incomplete,Moderate,Open,Privacy,Data Protection
+2026-10-23,R-001,Privileged access review gaps,Critical,In Progress,IAM Lead,Identity
+2026-10-23,R-002,Incomplete centralized logging,High,Open,Security Operations,Monitoring
+2026-10-23,R-003,Unverified backup restoration,High,In Progress,Infrastructure,Resilience
+2026-10-23,R-004,Vendor assurance evidence expired,High,Open,Vendor Risk,Third Party
+2026-10-23,R-005,Endpoint patch exceptions,Moderate,Open,IT Operations,Endpoint
+2026-10-23,R-006,Data retention rules incomplete,Moderate,Closed,Privacy,Data Protection
