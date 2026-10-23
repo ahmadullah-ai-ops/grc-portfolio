@@ -1,9 +1,9 @@
-# Project 02 — AWS Cloud Security Risk & Control Assessment
+# Project 02: AWS Cloud Security Risk & Control Assessment
 
-**Project type:** Simulated AWS GRC case study with a lab-validation plan  
+**Project type:** AWS GRC case study with a lab-validation plan  
 **Target roles:** GRC Analyst · IT Risk Analyst · Cloud Security Compliance Specialist  
 **Assessment domains:** IAM and least privilege, VPC segmentation, logging and monitoring, secure configuration and change control  
-**References:** AWS Well-Architected Framework — Security Pillar; AWS shared responsibility model; NIST CSF 2.0 concepts; selected ISO/IEC 27001:2022 Annex A references
+**References:** AWS Well-Architected Framework - Security Pillar; AWS shared responsibility model; NIST CSF 2.0 concepts; selected ISO/IEC 27001:2022 Annex A references
 
 > **Disclosure:** This is a simulated portfolio assessment. No production AWS account was accessed, no real organization was assessed, and no control is claimed to be effective without evidence. The architecture and findings are illustrative. Lab evidence can be added later and must be labelled separately.
 
@@ -73,7 +73,7 @@ See [architecture and trust zones](architecture.md). The intended pattern is a p
 
 ## 7. Key GRC principle
 
-An AWS service being available or enabled does not prove a control is effective. For example, enabling CloudTrail does not by itself prove that all relevant accounts and regions are covered, logs are protected, retention is appropriate, or alerts are reviewed. Likewise, a security group that looks restrictive in isolation may still allow a risky path through another network route or attached resource.
+An AWS service being available or enabled does not prove a control is effective. For example, enabling CloudTrail does not by itself prove that all relevant accounts and regions are covered, logs are protected, retention is appropriate, or alerts are reviewed, you have to govern these. Likewise, a security group that looks restrictive in isolation may still allow a risky path through another network route or attached resource.
 
 ## 8. How to reproduce safely
 
