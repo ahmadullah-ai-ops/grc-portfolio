@@ -25,10 +25,10 @@ Rate each factor from 1 to 5:
 1 = Low, 2 = Limited, 3 = Moderate, 4 = High, 5 = Very High.
 
 Illustrative factors: data sensitivity, access/privilege, business criticality, integration/exposure, regulatory impact, resilience dependency and fourth-party concentration. Calculate the arithmetic mean. Example bands:
-- 1.00–1.79: Low
-- 1.80–2.59: Moderate
-- 2.60–3.39: High
-- 3.40–5.00: Critical
+- 1.00-1.79: Low
+- 1.80-2.59: Moderate
+- 2.60-3.39: High
+- 3.40-5.00: Critical
 
 These thresholds are a sample policy, not a universal standard. An organization may instead use weighted scoring or mandatory criticality overrides. Document the method and use it consistently.
 
