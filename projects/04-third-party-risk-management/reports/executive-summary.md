@@ -30,3 +30,8 @@ Recommended KPIs include: percentage of critical vendors with current reviewed a
 ## Limitations
 
 All vendor details, answers, scores and findings are fictional. No real vendor due diligence or control testing occurred. Do not represent this exercise as a completed assessment of an actual supplier.
+
+
+## Evidence-led sample decision record
+
+The supplemental questionnaire-response and evidence-review workpapers intentionally do not convert vendor assertions into findings of fact. In this simulation, requested evidence has not been supplied, so control design and operating effectiveness remain Not Assessed and residual risk is not scored. The documented sample recommendation is to defer onboarding pending scope confirmation, evidence review, material-gap treatment and authorized risk-owner approval. See [onboarding decision record](onboarding-decision.md).
