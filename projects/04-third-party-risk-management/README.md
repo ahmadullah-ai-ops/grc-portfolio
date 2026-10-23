@@ -1,4 +1,4 @@
-# Project 04 — Third-Party Risk Management (TPRM)
+# Project 04: Third-Party Risk Management (TPRM)
 
 **Project type:** Simulated vendor due diligence and ongoing monitoring case study  
 **Target roles:** GRC Analyst · IT Risk Analyst · Vendor Risk Analyst · Cybersecurity Compliance Specialist  
