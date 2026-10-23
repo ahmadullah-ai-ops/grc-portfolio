@@ -1,10 +1,10 @@
-# Ahmad Ullah | Governance, Risk & Compliance Portfolio
+# Governance, Risk & Compliance Portfolio
 
-**Target roles:** GRC Analyst · IT Risk Analyst · Cybersecurity Compliance Specialist  
-**Location:** Islamabad, Pakistan  
+**GRC Analyst · IT Risk Analyst · Cybersecurity Compliance Specialist**  
+**Islamabad, Pakistan**   
 **Focus:** IT risk assessment, control assessment, compliance mapping, evidence management, remediation tracking, cloud security governance, and executive GRC reporting.
 
-> This repository contains portfolio demonstrations and simulated case studies. Simulated scenarios are not client engagements, and no real company data or confidential evidence is represented.
+> This repository contains portfolio demonstrations and simulated case studies, created during my studies at Al-Nafi International College UK. Simulated scenarios are not client engagements, and no real company data or confidential evidence is represented in this portfolio repository.
 
 ## Portfolio projects
 
@@ -18,13 +18,13 @@
  
 ## Separate specialization repository
 
-**AI Governance & AI Risk Assessment will be maintained in a separate repository** so the GRC portfolio remains focused and recruiters can evaluate AI governance as a distinct specialization. Planned AI Governance deliverables include an AI system inventory, AI risk register, governance/control mapping, impact assessment, lifecycle oversight and monitoring. Add the repository link here once the dedicated repository is created and accessible.
+**AI Governance & AI Risk Assessment will be maintained in a separate repository** so the GRC portfolio remains focused and we evaluate AI governance as a distinct specialization. Planned AI Governance deliverables include an AI system inventory, AI risk register, governance/control mapping, impact assessment, lifecycle oversight and monitoring etc etc. I'll add the repository link here once the dedicated repository is created and accessible.
 
 ## How I approach GRC
 
-**Business context → Scope → Risk identification → Risk analysis → Control mapping → Evidence assessment → Gap analysis → Treatment → Validation → Reporting**
+**Business context (Financial & Operational Risk) → Scope → Risk identification → Risk analysis → Control mapping → Evidence assessment → Gap analysis → Treatment → Validation → Reporting**
 
-I distinguish between a control being documented, a control being implemented, and evidence demonstrating that it operates effectively. I do not claim a control is effective without appropriate evidence.
+I distinguish between a control being documented, a control being implemented, and evidence demonstrating that it operates effectively. I do not think that a control is effective without appropriate evidence.
 
 ## Framework familiarity
 
@@ -37,9 +37,9 @@ Framework references are mapping aids, not a claim of certification or a formal 
 
 ## Technical foundation
 
-Cloud and infrastructure literacy supporting GRC work: AWS, Azure concepts, IAM and least privilege, VPC/network segmentation, Linux, Kubernetes, Terraform, monitoring, and DevSecOps. Project 05 adds Python-based KPI calculations and dashboard testing.
+Cloud and infrastructure literacy supporting GRC work: AWS, Azure concepts, IAM and least privilege, VPC/network segmentation, Linux, Kubernetes, Terraform, monitoring, and DevSecOps. Project 05 will add Python-based KPI calculations and dashboard testing if needed.
 
-## Start here
+## You can start learning here
 
 - [Project 01 overview](projects/01-it-risk-assessment/README.md)
 - [Assessment methodology](projects/01-it-risk-assessment/methodology.md)
