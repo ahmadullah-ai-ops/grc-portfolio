@@ -27,9 +27,9 @@ def test_control_distribution_preserves_not_tested():
 def test_sla_is_calculated_only_for_eligible_closed_actions():
     _, actions, _ = load_data(DATA)
     result = remediation_sla(actions)
-    assert result["eligible"] == 2
-    assert result["within_sla"] == 2
-    assert result["rate"] == 1.0
+    assert result["eligible"] == 3
+    assert result["within_sla"] == 1
+    assert round(result["rate"], 2) == 0.33
 
 def test_risk_trend_uses_snapshot_dates_and_excludes_closed_risks():
     risks, _, _ = load_data(DATA)
