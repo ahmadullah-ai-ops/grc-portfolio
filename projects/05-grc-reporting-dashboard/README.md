@@ -1,4 +1,4 @@
-# Project 05 — GRC Reporting Dashboard
+# Project 05: GRC Reporting Dashboard
 
 **Purpose:** Turn risk, remediation and control-status records into decision-useful management reporting.  
 **Stack:** Python, Streamlit, Plotly, pandas, pytest.  
