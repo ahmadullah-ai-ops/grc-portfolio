@@ -1,4 +1,4 @@
-# Executive Summary — AWS Cloud Security Risk Assessment
+# Executive Summary: AWS Cloud Security Risk Assessment
 
 **Assessment:** Simulated GRC case study  
 **Environment:** Fictional AWS-hosted e-commerce workload  
@@ -41,4 +41,4 @@ The minimum evidence set includes identity and policy exports, MFA/role-assumpti
 
 ## Portfolio disclosure
 
-This report is a simulated skills demonstration, not an audit opinion, certification, production security review or claim of client experience.
+This report is a simulated skills demonstration, not an audit opinion, certification, production security review or claim of client experience, for educational purpose only.
